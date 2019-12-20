@@ -1,6 +1,6 @@
 # KB-smishing
 
-##pickle data load
+## pickle data load
 sample_datas = []
 sample_label_datas = []
 

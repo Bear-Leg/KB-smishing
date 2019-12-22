@@ -1,6 +1,6 @@
 # 토큰화된 데이터들
 
-##jh
+이재현 추가_12221150
 1. mecab_nouns_imblance_train
   : 기존 클래스 비율(0.0632)를 유지한 2만개 랜덤 추출 train set에 대한 Mecab().nouns 정제 데이터
 
